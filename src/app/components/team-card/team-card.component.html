@@ -1,0 +1,10 @@
+<mat-card class="team-card">
+  <mat-card-header>
+    <mat-card-title>{{ team.name }}</mat-card-title>
+  </mat-card-header>
+  <mat-card-content>
+    <ul>
+      <li *ngFor="let member of team.members">{{ member.name }} - {{ member.role }}</li>
+    </ul>
+  </mat-card-content>
+</mat-card>

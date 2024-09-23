@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Time Alpha",
+    "members": [
+      {"name": "Alice", "role": "Desenvolvedora"},
+      {"name": "Bob", "role": "Designer"}
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Time Beta",
+    "members": [
+      {"name": "Charlie", "role": "Gerente"},
+      {"name": "Diana", "role": "Desenvolvedora"}
+    ]
+  }
+]
